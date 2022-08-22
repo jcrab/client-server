@@ -6,7 +6,7 @@ Starter code for a client/server application.
 
 Using this starter code, incorporate your code from class to implement a fully operational client/server application.
 
-Your application must accept any string from the client, but the server will respond with the same string, but in ALL CAPS.
+Your application must accept any string from the client.  The server will respond with the same string, but in ALL CAPS.
 
 ## Pre-requisites
 
